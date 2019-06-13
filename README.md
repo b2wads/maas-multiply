@@ -1,8 +1,8 @@
-[![CircleCI](https://circleci.com/gh/b2wads/maas-plus/tree/master.svg?style=shield)](https://circleci.com/gh/b2wads/maas-plus)
-[![codecov](https://codecov.io/gh/b2wads/maas-plus/branch/master/graph/badge.svg)](https://codecov.io/gh/b2wads/maas-plus)
+[![CircleCI](https://circleci.com/gh/b2wads/maas-multiply/tree/master.svg?style=shield)](https://circleci.com/gh/b2wads/maas-multiply)
+[![codecov](https://codecov.io/gh/b2wads/maas-multiply/branch/master/graph/badge.svg)](https://codecov.io/gh/b2wads/maas-multiply)
 
 
-# Math as a (µ)service - Plus (+)
+# Math as a (µ)service - Multiply (*)
 
 Esse projeto faz parte do exercício proposto no [maas](https://github.com/b2wads/maas).
 Essa é a implementação da operação de soma.
@@ -39,8 +39,8 @@ Todos os testes devem passar.
 
 ```
 {
-  "left": 30,
-  "right": 40
+  "left": 3,
+  "right": 4
 }
 ```
 
@@ -49,7 +49,7 @@ Todos os testes devem passar.
 
 ```
 {
-  "result": 70
+  "result": 12
 }
 ```
 
